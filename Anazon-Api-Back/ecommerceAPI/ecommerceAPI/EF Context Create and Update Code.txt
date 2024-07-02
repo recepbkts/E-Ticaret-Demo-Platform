@@ -1,0 +1,1 @@
+﻿Scaffold-DbContext -Connection "Server=.\DESKTOP-EEEJSC3;Database=AnazonDB;Trusted_Connection=True;Encrypt=False;" -OutputDir Models/Database Microsoft.EntityFrameworkCore.SqlServer -Force

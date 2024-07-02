@@ -1,0 +1,7 @@
+C:\Users\hp\Desktop\Anazon\Anazon-Api-Back\ecommerceAPI\ecommerceAPI\obj\Debug\net8.0\ecommerceAPI.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\Anazon\Anazon-Api-Back\ecommerceAPI\ecommerceAPI\obj\Debug\net8.0\ecommerceAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\Anazon\Anazon-Api-Back\ecommerceAPI\ecommerceAPI\obj\Debug\net8.0\ecommerceAPI.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\Anazon\Anazon-Api-Back\ecommerceAPI\ecommerceAPI\obj\Debug\net8.0\ecommerceAPI.AssemblyInfo.cs
+C:\Users\hp\Desktop\Anazon\Anazon-Api-Back\ecommerceAPI\ecommerceAPI\obj\Debug\net8.0\ecommerceAPI.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\Anazon\Anazon-Api-Back\ecommerceAPI\ecommerceAPI\obj\Debug\net8.0\ecommerceAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\hp\Desktop\Anazon\Anazon-Api-Back\ecommerceAPI\ecommerceAPI\obj\Debug\net8.0\ecommerceAPI.MvcApplicationPartsAssemblyInfo.cache
